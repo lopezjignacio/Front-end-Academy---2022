@@ -1,0 +1,81 @@
+#header{
+	background-color: black;
+	color: lightcyan;
+	text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+	flex-direction: row;
+	height: 150px;
+	background-color: black;
+	padding: 16px 0;
+}
+
+#header h1{
+	font-family: 'Dosis', sans-serif;
+	font-size: 48px;
+	padding-top: 20px;
+	font-weight: 100;
+	display: inline-block;
+	position: relative;
+	margin-left: 15px;
+	bottom: 15px;
+}
+
+.fotoJuan{
+	height: 100px;
+	border: 2px solid black;
+	border-radius: 50px;
+}
+
+body{
+  background-color: #e6f2ff;
+  color: black;
+  align-items: center;
+  /* width: 960px; */
+  border: 1px solid white;
+  justify-content: center;
+  line-height: 20px;
+}
+
+h2 h3{
+	text-decoration: underline;
+}
+.card-title{
+  height: 80px;
+  margin: auto;
+  padding: 10px;
+}
+
+.card{
+	height: 200px;
+}
+
+.col{
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background: rgba(0,165,255,0.59);
+	background: linear-gradient(139deg,rgba(0,165,255,0.59) 0%, rgba(0,172,255,0.26) 80%);
+}
+
+.boton{
+	margin: 10px;
+}
+
+.botones{
+	justify-content: center;
+}
+
+.item{
+	/*visibility: hidden;
+	display:none;*/
+}
+
+/*#texto2{
+	/*visibility: hidden;
+	display:none;
+}
+
+#texto3{
+	/*visibility: hidden;
+	display:none;
+}
+*/
